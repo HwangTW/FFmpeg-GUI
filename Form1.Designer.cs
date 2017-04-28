@@ -165,6 +165,7 @@
             // 
             this.繁體中文ToolStripMenuItem.Name = "繁體中文ToolStripMenuItem";
             resources.ApplyResources(this.繁體中文ToolStripMenuItem, "繁體中文ToolStripMenuItem");
+            this.繁體中文ToolStripMenuItem.Click += new System.EventHandler(this.繁體中文ToolStripMenuItem_Click);
             // 
             // englishToolStripMenuItem
             // 

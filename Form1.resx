@@ -299,12 +299,6 @@
   <data name="關於FFmpegGUIToolStripMenuItem.Text" xml:space="preserve">
     <value>About FFmpeg-GUI</value>
   </data>
-  <data name="location.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 20</value>
-  </data>
-  <data name="location.Text" xml:space="preserve">
-    <value>Language</value>
-  </data>
   <data name="繁體中文ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>152, 22</value>
   </data>
@@ -316,6 +310,12 @@
   </data>
   <data name="englishToolStripMenuItem.Text" xml:space="preserve">
     <value>English</value>
+  </data>
+  <data name="location.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 20</value>
+  </data>
+  <data name="location.Text" xml:space="preserve">
+    <value>Language</value>
   </data>
   <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
