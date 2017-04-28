@@ -25,5 +25,10 @@ namespace ffmpeg_gui
         {
 
         }
+
+        private void englishToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
